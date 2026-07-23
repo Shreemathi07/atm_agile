@@ -3,7 +3,7 @@
 user_balance = 5000.0  
 
 # 2. Hardcoded withdrawal amount (Change this value to test different scenarios)
-withdrawal_amount = 300  
+withdrawal_amount = 0  
 
 print(f"Current Available Balance: ${user_balance:.2f}")
 print(f"Attempting to withdraw: ${withdrawal_amount:.2f}\n")
